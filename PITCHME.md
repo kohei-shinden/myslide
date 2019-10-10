@@ -1,7 +1,7 @@
-### 1
+### Sample slide
 
 
-Sample slide.
+Kohei Shinden
 
 
 ---
@@ -16,7 +16,7 @@ Hello,
 +++
 
 
-### 2 の補足
+### 2.5
 
 
 world!
