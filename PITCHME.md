@@ -1,7 +1,7 @@
 ### 1
 
 
-これはサンプルのスライド資料です。
+Sample slide.
 
 
 ---
@@ -38,13 +38,13 @@ world!
 ---
 
 
-### グラフ
+### Graph
 
 
 <canvas data-chart="radar">
 
 
-    Month, 1月, 2月, 3月, 4月, 5月, 6月, 7月
+    Month, Jan., Feb., Mar., Apr., May, Jun., Jul.
     1980, 65, 59, 80, 81, 56, 55, 40
     2017, 28, 48, 40, 19, 86, 27, 90
 
