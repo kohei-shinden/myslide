@@ -28,11 +28,11 @@ world!
 ### 2
 
 
-- Java
-- JavaScript |
-- Kotlin |
+- C / C++
+- Java |
+- Python |
 - Go |
-- Scala |
+- Ruby |
 
 
 ---
