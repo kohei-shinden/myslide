@@ -7,7 +7,7 @@ Kohei Shinden
 ---
 
 
-### 2
+### 1
 
 
 Hello,
@@ -16,7 +16,7 @@ Hello,
 +++
 
 
-### 2.5
+### 1.5
 
 
 world!
@@ -25,7 +25,7 @@ world!
 ---
 
 
-### 3
+### 2
 
 
 - Java
@@ -38,8 +38,10 @@ world!
 ---
 
 
-### Graph
+### 3
 
+
+Graph
 
 <canvas data-chart="radar">
 
@@ -55,4 +57,4 @@ world!
 ---
 
 
-### おわり
+### End
