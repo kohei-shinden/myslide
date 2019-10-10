@@ -1,0 +1,34 @@
+# テーマ
+theme : sky
+
+
+# ロゴ
+logo : /img/cat01_moyou_black.png
+
+
+# フットノート
+footnote : "© 2017 sample Inc."
+
+
+# スライド番号表示
+slide-number: true
+
+
+# コードのシンタックスハイライト
+highlight : monokai
+
+
+# スライド自動再生
+autoslide : 5000
+
+
+# スライドループ
+loop : true
+
+
+# トランジション
+transition : fade
+
+
+#チャート / グラフ機能
+charts : true
